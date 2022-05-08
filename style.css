@@ -1,0 +1,19 @@
+.brand{
+    padding-top: 50px;
+    padding-left: 50px;
+}
+#text{
+    margin-top: 10px;
+    margin-left: 50px;
+    
+}
+.btn{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+body{
+    background-color:whitesmoke;
+}
+.row{
+    margin-top: 10px;
+}
